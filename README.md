@@ -10,3 +10,11 @@ Usualemente, la reproductibilidad requiere que los datos y el código de program
 ¿Por qué es importante la investigación reproducible? Para encontrar una respuesta, podemos estudiar sus inicios. A principios de la década de 1990, un geofísico estadaunidense llamado John Claerbout realizó la siguiente afirmación:
 
 > "Al día de hoy, pocos resultados publicados son reproducibles en un sentido práctico. Verificarlos requiere de tanto esfuerzo como el que tomó crearlos. Después de un tiempo, incluso los autores son incapaces de reproducir sus propios resultados. Por esta razón, muchas personas ignoran la mayor parte de la literatura cientifíca."(Claerbout, 1992)
+
+Con el fin de resolver esta problemática, diferentes organizaciones, como el Comité Internacional de Publicaciones de Medicina o la Administración de Alimentos y Medicamentos de Estados Unidos (FDA), empezaron a publicar lineamientos para atacar los problemas derivados de una inadecuada documentación de los experimentos basados en ensayos aleatorios. De manera simultánea, se le dio más importancia a la calidad de los datos utilizados en las investigaciones.
+Asi, por ejemplo, como se muestra en la figura 1, Mark Ziemann encontró en 2016 que un 20% de los artículos con archivos de datos suplementarios publicados en revistas cientifícas contenían en los nombres de los genes, debido a los parámetros de configuración de Microsoft Excel (Ziemann et al.2016).
+
+![Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/ZiemannEtAlFig1.png)
+
+
+
